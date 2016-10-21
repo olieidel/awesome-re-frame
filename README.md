@@ -1,6 +1,6 @@
 # awesome-re-frame
 
-Work in progress. A list to keep track of re-frame things.
+A list to keep track of re-frame things.
 
 ### First things first
 - [re-frame](https://github.com/Day8/re-frame)
@@ -9,6 +9,11 @@ Work in progress. A list to keep track of re-frame things.
 ### re-frame Tools
 - [re-frame-utils](https://github.com/nikolap/reframe-utils)
 - [re-frisk](https://github.com/flexsurfer/re-frisk) - Visualize re-frame pattern data in your re-frame apps as a tree structure.
+
+### re-frame Effect Handlers
+- [async-flow-fx](https://github.com/Day8/re-frame-async-flow-fx)
+- [http-fx](https://github.com/Day8/re-frame-http-fx)
+- [document-fx](https://github.com/SMX-LTD/re-frame-document-fx)
 
 ### Reagent Resources
 - [Reagent Cookbook](https://github.com/reagent-project/reagent-cookbook)
