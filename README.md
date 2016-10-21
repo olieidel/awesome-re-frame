@@ -3,7 +3,7 @@
 Work in progress. A list to keep track of re-frame things.
 
 ### First things first
-- [Re-Frame](https://github.com/Day8/re-frame)
+- [re-frame](https://github.com/Day8/re-frame)
 - [Reagent](https://github.com/reagent-project/reagent)
 
 ### re-frame Tools
