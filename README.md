@@ -12,10 +12,12 @@ A list to keep track of re-frame things.
   - [Components](#components)
   - [Testing](#testing)
   - [React Native](#react-native)
+- [Guides](#guides)
 - [Examples](#examples)
   - [Reagent](#reagent)
   - [Web](#web)
   - [React Native](#react-native-1)
+  - [Demos](#demos)
 - [Related lists](#related-lists)
 
 ## Core
@@ -55,6 +57,12 @@ A list to keep track of re-frame things.
 - [cljsrn-re-frame-workers](https://github.com/seantempesta/cljsrn-re-frame-workers): A library supporting react-native-workers with re-frame for ClojureScript and React Native.
 - [re-navigate](https://github.com/vikeri/re-navigate): Example of React Native Navigation with re-frame/re-natal
 
+## Guides
+
+- [The Re-frame Building Blocks Guide](https://purelyfunctional.tv/guide/re-frame-building-blocks/): Eric Normand's (PurelyFunctional.tv) Re-frame Guide.
+- [A Noob's Walkthrough of a re-frame App](http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/): Nice beginners guide.
+- [Guide to Reagent](https://purelyfunctional.tv/guide/reagent/): Eric Normand's (PurelyFunctional.tv) Reagent guide, a prerequisite of re-frame.
+
 ## Examples
 
 ### Reagent
@@ -68,6 +76,10 @@ A list to keep track of re-frame things.
 ### React Native
 - [Catlantis](https://github.com/madvas/catlantis): ReactNative & Clojurescript App about Cats!
 - [Lymchat](https://github.com/tiensonqin/lymchat): Lymchat - learn different cultures.
+
+### Demos
+
+- [tacticiankerala/re-frame-sample-app](https://github.com/tacticiankerala/re-frame-sample-app): A small re-frame example app. (Get github profile) Walkthru [here](http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/).
 
 ## Related lists
 - [Awesome ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
